@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuckyYoila
 - 👀 I’m interested in technology, web development, 
-- 🌱 I’m currently learning Linux, Python, Javascript, and HTML
+- 🌱 I’m currently learning NodeJs and ReactJs
 - 📫 How to reach me. email: luckyyoila626@gmail.com,  twitter: www.twitter.com/LuckyYoila1
 
 <!---
