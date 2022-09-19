@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LuckyYoila
-- 👀 I’m interested in technology, web development, 
-- 🌱 I’m currently learning NodeJs and ReactJs
+- 👀 I’m a full stack web developer
+- 💼 I work with Node.js, Flask, Django, React, Angular, MongoDB, MySQL ...
+- 🌱 I’m currently learning Laravel and Solidity
 - 📫 How to reach me. email: luckyyoila626@gmail.com,  twitter: www.twitter.com/LuckyYoila1
 
 <!---
