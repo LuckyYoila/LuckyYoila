@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @LuckyYoila
 - 👀 I’m a full stack web developer
-- 💼 I work with Node.js, Flask, Django, React, Angular, MongoDB, MySQL ...
 - 🌱 I’m currently learning Laravel and Solidity
 - 📫 How to reach me. email: luckyyoila626@gmail.com,  twitter: www.twitter.com/LuckyYoila1
 
 
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyyoila&label=Profile%20views&color=0e75b6&style=flat" alt="luckyyoila" /> </p>
 
