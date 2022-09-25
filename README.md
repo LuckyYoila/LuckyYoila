@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luckyyoila1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckyyoila1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucky yoila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucky yoila" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luckyyoila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucky yoila" height="30" width="40" /></a>
 <a href="https://fb.com/lucky yoila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucky yoila" height="30" width="40" /></a>
 <a href="https://instagram.com/yoila.lucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoila.lucky" height="30" width="40" /></a>
 <a href="https://medium.com/@lucky yoila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lucky yoila" height="30" width="40" /></a>
