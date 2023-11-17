@@ -1,9 +1,10 @@
 ## 👋 Hi, I’m Lucky Yoila 👨🏾‍💻
 
-![Static Badge](https://img.shields.io/badge/Twitter(X)-black?style=for-the-badge&logo=x)
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucky-yoila-808b76185%2F)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+<p> 
+  <a href='google.com'><img src="https://img.shields.io/badge/Twitter(X)-black?style=for-the-badge&logo=x" /></a>
+<a href='google.com'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucky-yoila-808b76185%2F" /> </a>
+<a href='google.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 I'm a passionate Full Stack Software Engineer with 3 years of experience in crafting robust and scalable solutions. 
 
