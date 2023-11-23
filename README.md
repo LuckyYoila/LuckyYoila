@@ -8,7 +8,9 @@
 
 I'm a passionate Full Stack Software Engineer with 3 years of experience in crafting robust and scalable solutions. 
 
-My main tech stack includes TypeScript, JavaScript, React, Node.js, and recently, Golang. 
+My main tech stack includes TypeScript, JavaScript, React, Node.js, and recently, Golang.
+
+I am also checking out cross-platform mobile development with React Native and Flutter.
 
 I love turning ideas (and coffee ☕) into code and building products that make a difference.
 
